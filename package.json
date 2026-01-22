@@ -1,0 +1,30 @@
+{
+  "name": "𝙄̸𝙫͞𝙖͢𝙨͞𝙢͢𝙨 𝘽̸𝙤͞𝙩̸𝙕͞",
+  "version": "2.1.1.0",
+  "description": "IvaSMS Live SMS Monitor Bot - Project KILLUA NEW",
+  "main": "ivas.js",
+  "scripts": {
+    "start": "node ivas.js",
+    "dev": "nodemon ivas.js"
+  },
+  "keywords": [
+    "ivasms",
+    "telegram-bot",
+    "sms-monitoring",
+    "automation",
+    "puppeteer"
+  ],
+  "author": "KangDayZ",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-core": "^21.5.0",
+    "axios": "^1.6.0",
+    "xlsx": "^0.18.5",
+    "csv-parser": "^3.0.0",
+    "chalk": "^4.1.2",
+    "libphonenumber-js": "^1.10.58"
+  }
+}
