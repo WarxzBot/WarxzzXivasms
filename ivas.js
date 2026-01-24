@@ -15,7 +15,7 @@ const axios = require('axios');
 
 puppeteerExtra.use(StealthPlugin());
 
-const ALLOWED_TOKENS_URL = 'https://raw.githubusercontent.com/Dayutam03/bukan-apa-apa/main/allowed-tokens.json';
+const ALLOWED_TOKENS_URL = 'https://raw.githubusercontent.com/WarxzBot/bukan-apa-apa/main/allowed-tokens.json';
 
 async function getAllowedTokens() {
     try {
