@@ -1,11 +1,11 @@
 module.exports = {
 
-TOKEN: "7500010007:AAHGjKL3EjZ4CYkvOHMO4QXiPveyYkh1FtU",
+TOKEN: "8375190418:AAEYEyKJe_lelBlprPYs01xmOu8GXDNFvtI",
     "BOT_OWNER_LINK": "https://t.me/Userrr_warxzz",
     "IVAS_USERNAME": "",
     "IVAS_PASSWORD": "",
-    OWNER_ID: 8062630087,
-    "CHAT_ID": [
+    OWNER_ID: 8062630087,8439307766
+    "CHAT_ID": [-1003653261667
     ],
     
 CF_CLEARANCE_VALUE: '',
