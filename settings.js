@@ -1,10 +1,10 @@
 module.exports = {
 
-TOKEN: "8375190418:AAEYEyKJe_lelBlprPYs01xmOu8GXDNFvtI",
-    "BOT_OWNER_LINK": "https://t.me/YantooooTL",
+TOKEN: "8375190418:7500010007:AAHGjKL3EjZ4CYkvOHMO4QXiPveyYkh1FtU",
+    "BOT_OWNER_LINK": "https://t.me/Userrr_warxzz",
     "IVAS_USERNAME": "",
     "IVAS_PASSWORD": "",
-    OWNER_ID: 8439307766,
+    OWNER_ID: 0,
     "CHAT_ID": [
     ],
     
